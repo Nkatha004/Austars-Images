@@ -1,3 +1,3 @@
 # Austars-Images
 
-images to use in my ML app
+Images to use in Austars ML app.
